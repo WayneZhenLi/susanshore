@@ -1,0 +1,15 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\waynl\Documents\LTspice\susanshore.net
+Start Time: Thu Jun 25 10:49:27 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.169 seconds.
+
+Files loaded:
+C:\Users\waynl\Documents\LTspice\susanshore.net
+C:\Users\waynl\AppData\Local\LTspice\lib\cmp\standard.mos
+
